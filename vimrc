@@ -108,3 +108,4 @@ autocmd InsertLeave * match ExtraWhitespace /\s\+$/
 
 " Optional: Automatically remove trailing spaces on save
 autocmd BufWritePre * :%s/\s\+$//e
+~/.vimrc
